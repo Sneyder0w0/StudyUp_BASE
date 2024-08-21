@@ -142,7 +142,7 @@
       this[globalName] = mainExports;
     }
   }
-})({"eHKH2":[function(require,module,exports) {
+})({"cIFaR":[function(require,module,exports) {
 var global = arguments[3];
 var HMR_HOST = null;
 var HMR_PORT = null;
@@ -585,6 +585,6 @@ function hmrAccept(bundle /*: ParcelRequire */ , id /*: string */ ) {
 
 },{}],"jK2Rz":[function(require,module,exports) {
 
-},{}]},["eHKH2","jK2Rz"], "jK2Rz", "parcelRequire4bac")
+},{}]},["cIFaR","jK2Rz"], "jK2Rz", "parcelRequire4bac")
 
 //# sourceMappingURL=ciencias-lectura-tema1.5b6ee18a.js.map

@@ -142,7 +142,7 @@
       this[globalName] = mainExports;
     }
   }
-})({"fDS7i":[function(require,module,exports) {
+})({"fmB1W":[function(require,module,exports) {
 var global = arguments[3];
 var HMR_HOST = null;
 var HMR_PORT = null;
@@ -585,6 +585,6 @@ function hmrAccept(bundle /*: ParcelRequire */ , id /*: string */ ) {
 
 },{}],"iNGQj":[function(require,module,exports) {
 
-},{}]},["fDS7i","iNGQj"], "iNGQj", "parcelRequire4bac")
+},{}]},["fmB1W","iNGQj"], "iNGQj", "parcelRequire4bac")
 
 //# sourceMappingURL=metodo-audio.558f3e9f.js.map

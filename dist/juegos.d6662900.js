@@ -142,7 +142,7 @@
       this[globalName] = mainExports;
     }
   }
-})({"3Oprv":[function(require,module,exports) {
+})({"hIFT6":[function(require,module,exports) {
 var global = arguments[3];
 var HMR_HOST = null;
 var HMR_PORT = null;
@@ -585,6 +585,6 @@ function hmrAccept(bundle /*: ParcelRequire */ , id /*: string */ ) {
 
 },{}],"jBShk":[function(require,module,exports) {
 
-},{}]},["3Oprv","jBShk"], "jBShk", "parcelRequire4bac")
+},{}]},["hIFT6","jBShk"], "jBShk", "parcelRequire4bac")
 
 //# sourceMappingURL=juegos.d6662900.js.map
