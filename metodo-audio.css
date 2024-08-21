@@ -1,0 +1,631 @@
+.minerales-y-rocas6 {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  font-weight: 500;
+  font-family: inherit;
+  white-space: nowrap;
+  z-index: 1;
+}
+.title {
+  width: 1286px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 var(--padding-xl) 0 var(--padding-2xl);
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.search-child {
+  height: 78px;
+  width: 1285px;
+  position: relative;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: var(--br-6xl);
+  background-color: var(--color-white);
+  display: none;
+  max-width: 100%;
+}
+.vector-icon6 {
+  width: 48px;
+  height: 50px;
+  position: relative;
+  z-index: 2;
+}
+.search-icon1 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-8xs) 0 0;
+}
+.buscar-temas5 {
+  position: relative;
+  font-weight: 500;
+  white-space: nowrap;
+  z-index: 2;
+}
+.search {
+  width: 1285px;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: var(--br-6xl);
+  background-color: var(--color-white);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-4xs) var(--padding-41xl);
+  box-sizing: border-box;
+  gap: var(--gap-8xl);
+  max-width: 100%;
+  z-index: 1;
+  font-size: var(--font-size-21xl);
+  color: var(--color-lightslategray-100);
+}
+.background {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-81xl);
+  background-color: var(--color-cadetblue-400);
+  width: 100%;
+  height: 100%;
+}
+.icon-arrow-left8 {
+  position: absolute;
+  top: 204px;
+  left: 113px;
+  width: 60px;
+  height: 90.7px;
+  cursor: pointer;
+  z-index: 1;
+}
+.back-button1 {
+  width: 100%;
+  height: 498px;
+  position: absolute;
+  margin: 0 !important;
+  top: -138px;
+  right: 0;
+  left: 0;
+}
+.navigation6 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  padding: var(--padding-28xl) var(--padding-xl) var(--padding-45xl);
+  box-sizing: border-box;
+  position: relative;
+  gap: var(--gap-24xl);
+  max-width: 100%;
+  text-align: left;
+  font-size: var(--font-size-66xl);
+  color: var(--color-black);
+  font-family: var(--font-poppins);
+}
+.ilustracin-de-proteccin-del,
+.rocks-title-child {
+  position: relative;
+  border-radius: var(--br-6xl);
+  max-width: 100%;
+}
+.ilustracin-de-proteccin-del {
+  width: 446px;
+  max-height: 100%;
+  object-fit: cover;
+}
+.rocks-title-child {
+  width: 839px;
+  height: 335px;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  background-color: var(--color-white);
+  display: none;
+}
+.by-sabas-que,
+.cul-es-la {
+  position: relative;
+  z-index: 1;
+}
+.cul-es-la {
+  margin: 0;
+  align-self: stretch;
+  font-size: inherit;
+  font-weight: 600;
+  font-family: inherit;
+  cursor: pointer;
+}
+.by-sabas-que {
+  font-weight: 500;
+}
+.author {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-28xl) 0 0;
+}
+.boton-de-play-2-icon {
+  height: 100px;
+  width: 100px;
+  position: relative;
+  object-fit: cover;
+  min-height: 100px;
+  cursor: pointer;
+  z-index: 1;
+}
+.rocks-author,
+.rocks-authors,
+.rocks-title {
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.rocks-author {
+  flex: 1;
+  flex-direction: row;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+}
+.rocks-authors,
+.rocks-title {
+  justify-content: flex-start;
+  box-sizing: border-box;
+}
+.rocks-authors {
+  width: 744px;
+  flex-direction: row;
+  padding: 0 var(--padding-7xl);
+  font-size: var(--font-size-16xl);
+  color: var(--color-darkgray);
+}
+.rocks-title {
+  align-self: stretch;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: var(--br-6xl);
+  background-color: var(--color-white);
+  flex-direction: column;
+  padding: var(--padding-9xl) 0 var(--padding-27xl) var(--padding-13xl);
+  gap: var(--gap-2xs);
+}
+.rocas-decorativas {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  font-weight: 600;
+  font-family: inherit;
+  display: inline-block;
+  max-width: 100%;
+  z-index: 1;
+}
+.by-ciencias-naturales-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-31xl) 0 0;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.boton-de-play-3-icon {
+  height: 100px;
+  width: 100px;
+  position: relative;
+  object-fit: cover;
+  z-index: 1;
+}
+.rocks-difference,
+.rocks-title1 {
+  flex-direction: column;
+  align-items: flex-start;
+}
+.rocks-title1 {
+  align-self: stretch;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: var(--br-6xl);
+  background-color: var(--color-white);
+  display: flex;
+  justify-content: flex-start;
+  padding: var(--padding-22xl) var(--padding-13xl) var(--padding-17xl);
+  box-sizing: border-box;
+  gap: var(--gap-61xl);
+  max-width: 100%;
+}
+.rocks-difference {
+  flex: 1;
+  gap: var(--gap-24xl);
+  min-width: 547px;
+}
+.main-content,
+.rocks-content,
+.rocks-difference,
+.rocks-illustration {
+  display: flex;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.rocks-illustration {
+  flex: 1;
+  flex-direction: row;
+  align-items: flex-end;
+  gap: var(--gap-37xl);
+}
+.main-content,
+.rocks-content {
+  align-items: flex-start;
+}
+.rocks-content {
+  width: 1452px;
+  flex-direction: row;
+  padding: 0 var(--padding-35xl);
+  box-sizing: border-box;
+}
+.main-content {
+  width: 1512px;
+  flex-direction: column;
+  gap: var(--gap-33xl);
+}
+.divider-child {
+  align-self: stretch;
+  height: 335px;
+  position: relative;
+  border-radius: var(--br-6xl);
+  max-width: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.content4,
+.divider {
+  display: flex;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.divider {
+  height: 713px;
+  width: 454px;
+  flex-direction: column;
+  align-items: flex-start;
+  margin-left: -1458px;
+}
+.content4 {
+  align-self: stretch;
+  flex-direction: row;
+  align-items: flex-end;
+  text-align: left;
+  font-size: var(--font-size-31xl);
+  color: var(--color-steelblue);
+  font-family: var(--font-poppins);
+}
+.ilustracin-de-proteccin-del1 {
+  width: 446px;
+  position: relative;
+  border-radius: var(--br-6xl);
+  max-height: 100%;
+  object-fit: cover;
+  min-height: 335px;
+  max-width: 100%;
+}
+.authors {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-31xl) 0 0;
+}
+.environment,
+.environment-illustration,
+.minerals-classes {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.minerals-classes {
+  flex: 1;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: var(--br-6xl);
+  background-color: var(--color-white);
+  flex-direction: column;
+  padding: var(--padding-17xl) var(--padding-13xl);
+  box-sizing: border-box;
+  gap: 85px;
+  min-width: 545px;
+}
+.environment,
+.environment-illustration {
+  flex-direction: row;
+}
+.environment {
+  flex: 1;
+  gap: var(--gap-37xl);
+}
+.environment-illustration {
+  width: 1449px;
+  padding: 0 var(--padding-35xl);
+  box-sizing: border-box;
+  text-align: left;
+  font-size: var(--font-size-31xl);
+  color: var(--color-steelblue);
+  font-family: var(--font-poppins);
+}
+.frame-wrapper5 {
+  width: 742px;
+  flex-direction: row;
+  padding: 0 var(--padding-6xl);
+  font-size: var(--font-size-16xl);
+  color: var(--color-darkgray);
+}
+.environment-illustration1,
+.frame-wrapper5,
+.rectangle-parent48 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.rectangle-parent48 {
+  flex: 1;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: var(--br-6xl);
+  background-color: var(--color-white);
+  flex-direction: column;
+  padding: var(--padding-27xl) var(--padding-xl) var(--padding-17xl)
+    var(--padding-14xl);
+  gap: 75px;
+  min-width: 545px;
+}
+.environment-illustration1 {
+  width: 1455px;
+  flex-direction: row;
+  padding: 0 var(--padding-38xl);
+  text-align: left;
+  font-size: var(--font-size-31xl);
+  color: var(--color-steelblue);
+  font-family: var(--font-poppins);
+}
+.ilustracin-de-proteccin-del3 {
+  height: 335px;
+  width: 446px;
+  position: relative;
+  border-radius: var(--br-6xl);
+  object-fit: cover;
+  max-width: calc(100% - 895px);
+}
+.button-background {
+  position: absolute;
+  top: 0;
+  left: 0;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: var(--br-6xl);
+  background-color: var(--color-white);
+  width: 100%;
+  height: 100%;
+}
+.boton-de-play-6-icon {
+  position: absolute;
+  top: 159px;
+  left: 650px;
+  width: 100px;
+  height: 100px;
+  object-fit: cover;
+  z-index: 1;
+}
+.minerals-play {
+  width: 100%;
+  height: 335px;
+  position: absolute;
+  margin: 0 !important;
+  right: 0;
+  bottom: -176px;
+  left: 0;
+}
+.los-principales-minerales {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  font-weight: 600;
+  font-family: inherit;
+  flex-shrink: 0;
+  z-index: 1;
+}
+.main-minerals {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-7xl);
+  box-sizing: border-box;
+  max-width: 100%;
+  flex-shrink: 0;
+}
+.by-universodiscover {
+  width: 392px;
+  position: relative;
+  font-size: var(--font-size-16xl);
+  font-weight: 500;
+  color: var(--color-darkgray);
+  display: inline-block;
+  flex-shrink: 0;
+  max-width: 100%;
+  z-index: 1;
+}
+.minerals-title {
+  height: 159px;
+  flex: 1;
+  flex-direction: column;
+  padding: var(--padding-3xl) var(--padding-39xl) var(--padding-43xl);
+  box-sizing: border-box;
+  position: relative;
+  gap: var(--gap-93xl);
+  max-width: calc(100% - 502px);
+}
+.metodo-audio,
+.minerals-image,
+.minerals-title {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.minerals-image {
+  height: 159px;
+  flex: 1;
+  flex-direction: row;
+  padding: 0;
+  box-sizing: border-box;
+  gap: var(--gap-37xl);
+  max-width: 100%;
+}
+.metodo-audio {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-whitesmoke);
+  overflow: hidden;
+  flex-direction: column;
+  gap: var(--gap-61xl);
+  line-height: normal;
+  letter-spacing: normal;
+}
+@media screen and (max-width: 1200px) {
+  .ilustracin-de-proteccin-del {
+    flex: 1;
+  }
+  .rocks-illustration {
+    flex-wrap: wrap;
+  }
+  .rocks-content {
+    padding-left: var(--padding-8xl);
+    padding-right: var(--padding-8xl);
+    box-sizing: border-box;
+  }
+  .ilustracin-de-proteccin-del1 {
+    flex: 1;
+  }
+  .environment {
+    flex-wrap: wrap;
+  }
+  .environment-illustration {
+    padding-left: var(--padding-8xl);
+    padding-right: var(--padding-8xl);
+    box-sizing: border-box;
+  }
+  .environment-illustration1 {
+    padding-left: var(--padding-9xl);
+    padding-right: var(--padding-9xl);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 1050px) {
+  .cul-es-la {
+    font-size: var(--font-size-21xl);
+  }
+  .by-sabas-que {
+    font-size: var(--font-size-9xl);
+  }
+  .rocas-decorativas {
+    font-size: var(--font-size-21xl);
+  }
+  .rocks-title1 {
+    gap: var(--gap-21xl);
+  }
+  .minerals-classes {
+    gap: var(--gap-23xl);
+  }
+  .rectangle-parent48 {
+    gap: var(--gap-18xl);
+  }
+  .ilustracin-de-proteccin-del3 {
+    display: none;
+  }
+  .los-principales-minerales {
+    font-size: var(--font-size-21xl);
+  }
+  .by-universodiscover {
+    font-size: var(--font-size-9xl);
+  }
+  .minerals-title {
+    gap: var(--gap-37xl);
+    padding-left: var(--padding-10xl);
+    padding-right: var(--padding-10xl);
+    box-sizing: border-box;
+    max-width: 100%;
+  }
+}
+@media screen and (max-width: 750px) {
+  .search {
+    padding-left: var(--padding-11xl);
+    padding-right: var(--padding-11xl);
+    box-sizing: border-box;
+  }
+  .navigation6 {
+    gap: var(--gap-2xl);
+  }
+  .rocks-author {
+    flex-wrap: wrap;
+  }
+  .rocks-difference {
+    min-width: 100%;
+  }
+  .rocks-illustration {
+    gap: var(--gap-9xl);
+  }
+  .main-content {
+    gap: var(--gap-7xl);
+  }
+  .minerals-classes {
+    min-width: 100%;
+  }
+  .environment {
+    gap: var(--gap-9xl);
+  }
+  .rectangle-parent48 {
+    min-width: 100%;
+  }
+  .minerals-image {
+    gap: var(--gap-9xl);
+  }
+  .metodo-audio {
+    gap: var(--gap-21xl);
+  }
+}
+@media screen and (max-width: 450px) {
+  .navigation6 {
+    padding-top: var(--padding-12xl);
+    padding-bottom: var(--padding-23xl);
+    box-sizing: border-box;
+  }
+  .cul-es-la {
+    font-size: var(--font-size-11xl);
+  }
+  .by-sabas-que {
+    font-size: var(--font-size-2xl);
+  }
+  .rocas-decorativas {
+    font-size: var(--font-size-11xl);
+  }
+  .rocks-title1 {
+    gap: var(--gap-xl);
+  }
+  .minerals-classes,
+  .rocks-difference {
+    gap: var(--gap-2xl);
+  }
+  .rectangle-parent48 {
+    gap: var(--gap-lgi);
+  }
+  .los-principales-minerales {
+    font-size: var(--font-size-11xl);
+  }
+  .by-universodiscover {
+    font-size: var(--font-size-2xl);
+  }
+  .minerals-title {
+    gap: var(--gap-9xl);
+  }
+  .metodo-audio {
+    gap: var(--gap-xl);
+  }
+}

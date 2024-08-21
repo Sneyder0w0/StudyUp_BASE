@@ -1,0 +1,616 @@
+.metodo-de-lectura-de-ciencias-child {
+  width: 1285px;
+  height: 286px;
+  position: relative;
+  border-radius: var(--br-6xl);
+  background-color: #d9d9d9;
+  display: none;
+  max-width: 100%;
+}
+.minerales-y-rocas9 {
+  width: 555px;
+  height: 107px;
+  position: relative;
+  font-weight: 500;
+  display: none;
+  flex-shrink: 0;
+  max-width: 100%;
+}
+.aprenda,
+.finalizar-tu-proyecto {
+  position: relative;
+  font-size: var(--font-size-21xl);
+  font-weight: 500;
+  color: var(--color-lightslategray-100);
+  display: none;
+}
+.finalizar-tu-proyecto {
+  width: 1068px;
+  font-size: var(--font-size-16xl);
+  color: var(--color-white);
+  max-width: 100%;
+}
+.ciencias3 {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  font-weight: 500;
+  font-family: inherit;
+  z-index: 1;
+}
+.ciencias-container {
+  width: 1286px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 var(--padding-2xl) 0 var(--padding-xl);
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.search-item {
+  height: 78px;
+  width: 1285px;
+  position: relative;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: var(--br-6xl);
+  background-color: var(--color-white);
+  display: none;
+  max-width: 100%;
+}
+.search-input-icon {
+  height: 50px;
+  width: 48px;
+  position: relative;
+  z-index: 2;
+}
+.buscar-temas10 {
+  position: relative;
+  font-weight: 500;
+  white-space: nowrap;
+  z-index: 2;
+}
+.search1 {
+  width: 1285px;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: var(--br-6xl);
+  background-color: var(--color-white);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-4xs) var(--padding-70xl);
+  box-sizing: border-box;
+  gap: var(--gap-8xl);
+  max-width: 100%;
+  z-index: 1;
+  font-size: var(--font-size-21xl);
+  color: var(--color-lightslategray-100);
+}
+.navigation-item {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-81xl);
+  background-color: var(--color-cadetblue-400);
+  width: 100%;
+  height: 100%;
+}
+.icon-arrow-left15 {
+  position: absolute;
+  top: 221px;
+  left: 113px;
+  width: 60px;
+  height: 55.2px;
+  cursor: pointer;
+  z-index: 1;
+}
+.navigation10 {
+  width: 100%;
+  height: 498px;
+  position: absolute;
+  margin: 0 !important;
+  top: -138px;
+  right: 0;
+  left: 0;
+}
+.layout1 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  padding: var(--padding-41xl) var(--padding-xl) var(--padding-45xl);
+  box-sizing: border-box;
+  position: relative;
+  gap: var(--gap-11xl);
+  max-width: 100%;
+  text-align: left;
+  font-size: var(--font-size-66xl);
+  color: var(--color-black);
+  font-family: var(--font-poppins);
+}
+.aprenda1,
+.frame-child117 {
+  position: relative;
+  display: none;
+}
+.aprenda1 {
+  font-weight: 500;
+}
+.frame-child117 {
+  width: 1285px;
+  height: 286px;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: var(--br-6xl);
+  background-color: var(--color-white);
+  max-width: 100%;
+}
+.aprenda2,
+.minerales-y-rocas10 {
+  position: relative;
+  font-weight: 500;
+}
+.minerales-y-rocas10 {
+  width: 555px;
+  display: inline-block;
+  flex-shrink: 0;
+  max-width: 100%;
+  z-index: 1;
+}
+.aprenda2 {
+  z-index: 2;
+}
+.learn-more {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-4xl) 0 0;
+  font-size: var(--font-size-21xl);
+  color: var(--color-lightslategray-100);
+}
+.minerals-and-rocks-card {
+  width: 1207px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  max-width: 100%;
+  gap: var(--gap-xl);
+  font-size: var(--font-size-31xl);
+  color: var(--color-steelblue);
+}
+.finalizar-tu-proyecto1 {
+  flex: 1;
+  position: relative;
+  font-weight: 500;
+  display: inline-block;
+  max-width: 100%;
+  z-index: 1;
+}
+.science-project-card {
+  width: 1110px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-2xl);
+  box-sizing: border-box;
+  max-width: 100%;
+  font-size: var(--font-size-16xl);
+  color: var(--color-black);
+}
+.aprenda-parent,
+.rock-properties-child {
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: var(--br-6xl);
+  background-color: var(--color-white);
+  cursor: pointer;
+}
+.aprenda-parent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-xs) var(--padding-7xl) var(--padding-57xl);
+  box-sizing: border-box;
+  gap: var(--gap-4xs);
+  max-width: 100%;
+  z-index: 1;
+  font-size: var(--font-size-21xl);
+  color: var(--color-lightslategray-100);
+}
+.rock-properties-child {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  z-index: 3;
+}
+.sistema-solar1 {
+  height: 107px;
+  width: 618px;
+  display: inline-block;
+  flex-shrink: 0;
+  max-width: 100%;
+}
+.aprenda3,
+.sistema-solar1 {
+  position: relative;
+  font-weight: 500;
+  z-index: 4;
+}
+.genetics-card {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-2xs) 0 0;
+  font-size: var(--font-size-21xl);
+  color: var(--color-lightslategray-100);
+}
+.sistema-solar-parent {
+  width: 1207px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  max-width: 100%;
+  gap: var(--gap-xl);
+}
+.la-importancia-del {
+  flex: 1;
+  position: relative;
+  display: inline-block;
+  max-width: 100%;
+  z-index: 5;
+}
+.la-importancia-del-sistema-sol-wrapper,
+.rock-properties {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.la-importancia-del-sistema-sol-wrapper {
+  width: 1110px;
+  flex-direction: row;
+  padding: 0 var(--padding-2xl);
+  margin-top: -15px;
+  font-size: var(--font-size-16xl);
+  color: var(--color-black);
+}
+.rock-properties {
+  align-self: stretch;
+  flex-direction: column;
+  padding: var(--padding-xs) var(--padding-7xl) var(--padding-57xl);
+  position: relative;
+  min-height: 286px;
+}
+.rock-properties-item {
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: var(--br-6xl);
+  background-color: var(--color-white);
+  cursor: pointer;
+}
+.estructura-y-funcin1,
+.estudio-de-la {
+  position: relative;
+  display: inline-block;
+  max-width: 100%;
+  z-index: 1;
+}
+.estructura-y-funcin1 {
+  width: 964px;
+  font-weight: 500;
+}
+.estudio-de-la {
+  flex: 1;
+}
+.estructura-y-funcin-de-la-cl-parent,
+.minerals-rocks {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.minerals-rocks {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 0 0 0 var(--padding-2xl);
+  box-sizing: border-box;
+  font-size: var(--font-size-16xl);
+  color: var(--color-black);
+}
+.estructura-y-funcin-de-la-cl-parent {
+  width: 1089px;
+  flex-direction: column;
+  gap: var(--gap-base);
+}
+.aprenda4 {
+  position: relative;
+  font-weight: 500;
+  z-index: 1;
+}
+.aprenda-wrapper,
+.rock-properties1 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.aprenda-wrapper {
+  flex-direction: column;
+  padding: var(--padding-2xs) 0 0;
+  margin-left: -58px;
+  font-size: var(--font-size-21xl);
+  color: var(--color-lightslategray-100);
+}
+.rock-properties1 {
+  align-self: stretch;
+  flex-direction: row;
+  padding: var(--padding-xs) var(--padding-7xl) var(--padding-4xl);
+  box-sizing: border-box;
+  position: relative;
+  row-gap: 20px;
+  max-width: 100%;
+}
+.rock-properties-inner {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: var(--br-6xl);
+  background-color: var(--color-white);
+  cursor: pointer;
+}
+.genetica-y-herencia {
+  height: 107px;
+  flex: 1;
+  position: relative;
+  font-weight: 500;
+  display: inline-block;
+  max-width: 100%;
+  z-index: 1;
+}
+.ciencia-que-estudia {
+  width: 1068px;
+  position: absolute;
+  margin: 0 !important;
+  right: -534px;
+  bottom: -160px;
+  font-size: var(--font-size-16xl);
+  color: var(--color-black);
+  display: inline-block;
+  z-index: 2;
+}
+.aprenda-container,
+.genetica-y-herencia-parent {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+}
+.genetica-y-herencia-parent {
+  width: 555px;
+  justify-content: flex-start;
+  position: relative;
+  max-width: 100%;
+}
+.aprenda-container {
+  align-self: stretch;
+  justify-content: flex-end;
+  padding: 0 var(--padding-7xl);
+  margin-top: -96px;
+  font-size: var(--font-size-21xl);
+  color: var(--color-lightslategray-100);
+}
+.rock-properties2 {
+  align-self: stretch;
+  padding: var(--padding-xs) var(--padding-7xl) 167px;
+  box-sizing: border-box;
+  position: relative;
+  min-height: 286px;
+}
+.projects,
+.rock-properties2,
+.rock-properties3 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.rock-properties3 {
+  align-self: stretch;
+  padding: var(--padding-xs) var(--padding-7xl) var(--padding-57xl);
+  box-sizing: border-box;
+  position: relative;
+  gap: var(--gap-base);
+}
+.projects {
+  width: 1285px;
+  gap: var(--gap-24xl);
+  text-align: left;
+  font-size: var(--font-size-31xl);
+  color: var(--color-steelblue);
+  font-family: var(--font-poppins);
+}
+.metodo-de-lectura-de-ciencias,
+.projects-wrapper {
+  display: flex;
+  align-items: flex-start;
+  box-sizing: border-box;
+}
+.projects-wrapper {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: center;
+  padding: 0 var(--padding-2xl) 0 var(--padding-xl);
+  max-width: 100%;
+}
+.metodo-de-lectura-de-ciencias {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-whitesmoke);
+  overflow: hidden;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: 0 0 181px;
+  gap: var(--gap-39xl);
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: left;
+  font-size: var(--font-size-31xl);
+  color: var(--color-black);
+  font-family: var(--font-poppins);
+}
+@media screen and (max-width: 1250px) {
+  .aprenda-wrapper {
+    margin-left: 0;
+  }
+  .rock-properties1 {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 1050px) {
+  .minerals-and-rocks-card,
+  .sistema-solar-parent {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 750px) {
+  .minerales-y-rocas9 {
+    font-size: var(--font-size-21xl);
+  }
+  .aprenda {
+    font-size: var(--font-size-13xl);
+  }
+  .finalizar-tu-proyecto {
+    font-size: var(--font-size-9xl);
+  }
+  .search1 {
+    padding-left: var(--padding-25xl);
+    padding-right: var(--padding-25xl);
+    box-sizing: border-box;
+  }
+  .aprenda1 {
+    font-size: var(--font-size-13xl);
+  }
+  .minerales-y-rocas10 {
+    font-size: var(--font-size-21xl);
+  }
+  .aprenda2 {
+    font-size: var(--font-size-13xl);
+  }
+  .finalizar-tu-proyecto1 {
+    font-size: var(--font-size-9xl);
+  }
+  .sistema-solar1 {
+    font-size: var(--font-size-21xl);
+  }
+  .aprenda3 {
+    font-size: var(--font-size-13xl);
+  }
+  .la-importancia-del {
+    font-size: var(--font-size-9xl);
+  }
+  .estructura-y-funcin1 {
+    font-size: var(--font-size-21xl);
+  }
+  .estudio-de-la {
+    font-size: var(--font-size-9xl);
+  }
+  .aprenda4 {
+    font-size: var(--font-size-13xl);
+  }
+  .genetica-y-herencia {
+    font-size: var(--font-size-21xl);
+  }
+  .ciencia-que-estudia {
+    font-size: var(--font-size-9xl);
+  }
+  .projects {
+    gap: var(--gap-2xl);
+  }
+  .metodo-de-lectura-de-ciencias {
+    gap: var(--gap-10xl);
+  }
+}
+@media screen and (max-width: 450px) {
+  .minerales-y-rocas9 {
+    font-size: var(--font-size-11xl);
+  }
+  .aprenda {
+    font-size: var(--font-size-5xl);
+  }
+  .finalizar-tu-proyecto {
+    font-size: var(--font-size-2xl);
+  }
+  .layout1,
+  .search1 {
+    box-sizing: border-box;
+  }
+  .search1 {
+    padding-left: var(--padding-xl);
+    padding-right: var(--padding-xl);
+  }
+  .layout1 {
+    padding-top: var(--padding-20xl);
+    padding-bottom: var(--padding-23xl);
+  }
+  .aprenda1 {
+    font-size: var(--font-size-5xl);
+  }
+  .minerales-y-rocas10 {
+    font-size: var(--font-size-11xl);
+  }
+  .aprenda2 {
+    font-size: var(--font-size-5xl);
+  }
+  .finalizar-tu-proyecto1 {
+    font-size: var(--font-size-2xl);
+  }
+  .sistema-solar1 {
+    font-size: var(--font-size-11xl);
+  }
+  .aprenda3 {
+    font-size: var(--font-size-5xl);
+  }
+  .la-importancia-del {
+    font-size: var(--font-size-2xl);
+  }
+  .estructura-y-funcin1 {
+    font-size: var(--font-size-11xl);
+  }
+  .estudio-de-la {
+    font-size: var(--font-size-2xl);
+  }
+  .aprenda4 {
+    font-size: var(--font-size-5xl);
+  }
+  .genetica-y-herencia {
+    font-size: var(--font-size-11xl);
+  }
+  .ciencia-que-estudia {
+    font-size: var(--font-size-2xl);
+  }
+}
