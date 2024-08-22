@@ -35,20 +35,21 @@
             loading="lazy"
             alt=""
             src="./public/-icon-arrow-left3.svg"
+            id="back"
           />
         </div>
       </header>
       <main class="subject-grid-wrapper">
         <section class="subject-grid">
-          <div class="subject-items">
+          <div class="subject-items" id="t1">
             <div class="subject-items-child" id="rectangle"></div>
             <div class="minerales-y-rocas5">Minerales y rocas</div>
           </div>
-          <div class="subject-items">
+          <div class="subject-items" id="t2">
             <div class="subject-items-child" id="rectangle"></div>
             <div class="sistema-solar">Sistema solar</div>
           </div>
-          <div class="subject-rows">
+          <div class="subject-rows" id="t3">
             <div class="science-categories-parent">
               <div class="science-categories" id="scienceCategories"></div>
               <div class="estructura-y-funcin">
@@ -56,11 +57,11 @@
               </div>
             </div>
           </div>
-          <div class="subject-items">
+          <div class="subject-items" id="t4">
             <div class="subject-items-child" id="rectangle"></div>
             <div class="sistema-solar">Leyes de Newton</div>
           </div>
-          <div class="subject-rows1">
+          <div class="subject-rows1" id="t5">
             <div class="rectangle-parent41">
               <div class="frame-child49"></div>
               <div class="tabla-peridica-y">
@@ -103,40 +104,48 @@
     </div>
 
     <script>
-      var rectangle = document.getElementById("rectangle");
-      if (rectangle) {
-        rectangle.addEventListener("click", function (e) {
+      var t1 = document.getElementById("t1");
+      if (t1) {
+        t1.addEventListener("click", function (e) {
           window.location.href = "./video.html";
         });
       }
 
-      var rectangle = document.getElementById("rectangle");
-      if (rectangle) {
-        rectangle.addEventListener("click", function (e) {
+      var t2 = document.getElementById("t2");
+      if (t2) {
+        t2.addEventListener("click", function (e) {
           window.location.href = "./ciencias-tema2-video.html";
         });
       }
 
-      var scienceCategories = document.getElementById("scienceCategories");
-      if (scienceCategories) {
-        scienceCategories.addEventListener("click", function (e) {
-          // Please sync "ciencias - tema 3 video" to the project
+      var t3 = document.getElementById("t3");
+      if (t3) {
+        t3.addEventListener("click", function (e) {
+          window.location.href = "./video-tema-3.html";
         });
       }
 
-      var rectangle = document.getElementById("rectangle");
-      if (rectangle) {
-        rectangle.addEventListener("click", function (e) {
-          // Please sync "ciencias - tema 5 video" to the project
+      var t4 = document.getElementById("t4");
+      if (t4) {
+        t4.addEventListener("click", function (e) {
+          window.location.href = "./video-tema-4.html";
+        });
+      }
+      
+      var t5 = document.getElementById("t5");
+      if (t5) {
+        t5.addEventListener("click", function (e) {
+          window.location.href = "./video-tema-5.html";
         });
       }
 
-      var rectangle = document.getElementById("rectangle");
-      if (rectangle) {
-        rectangle.addEventListener("click", function (e) {
-          // Please sync "ciencias - tema 4 video" to the project
+      var back = document.getElementById("back");
+      if (back) {
+        back.addEventListener("click", function (e) {
+          window.location.href = "./pagina-de-inicio.html";
         });
       }
+      
     </script>
   </body>
 </html>

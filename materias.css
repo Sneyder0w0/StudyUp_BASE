@@ -90,7 +90,7 @@
   left: 0;
 }
 .learning-path,
-.number-theory {
+.number-theory0 {
   align-self: stretch;
   display: flex;
   box-sizing: border-box;
@@ -130,7 +130,7 @@
   cursor: pointer;
   z-index: 1;
 }
-.number-theory1,
+.number-theory0,
 .rectangle-parent35 {
   display: flex;
   flex-direction: row;

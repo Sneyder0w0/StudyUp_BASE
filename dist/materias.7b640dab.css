@@ -99,7 +99,7 @@
   margin: 0 !important;
 }
 
-.learning-path, .number-theory {
+.learning-path, .number-theory0 {
   box-sizing: border-box;
   font-family: var(--font-poppins);
   color: var(--color-black);
@@ -143,7 +143,7 @@
   position: relative;
 }
 
-.number-theory1, .rectangle-parent35 {
+.number-theory0, .rectangle-parent35 {
   box-sizing: border-box;
   flex-direction: row;
   align-items: flex-start;
